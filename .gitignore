@@ -1,0 +1,23 @@
+# Build trees
+/build*/
+/out/
+/cmake-build-*/
+CMakeUserPresets.json
+compile_commands.json
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Runtime data
+/data/
+*.log
+tropicrm.ini
+signing.key
+
+# OS
+.DS_Store
+Thumbs.db
